@@ -1,5 +1,7 @@
 # Modoo-s-Collection
-
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![React Native](https://img.shields.io/badge/React_Native-0.72-020202?logo=react)
+![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python)
 ### Click this image!
 
 [<img src="https://raw.githubusercontent.com/capdale/.github/main/profile/imgs/download.png">](https://drive.usercontent.google.com/download?id=1Se8yGDHNnaCtZJp0zr1arc400_b3aLbm&export=download&authuser=0)
@@ -60,8 +62,7 @@ The project was developed with clear separation of responsibilities across three
 - Point your camera at any animal in your surroundings
 - The integrated AI model analyzes the image in real-time and classifies the species
 - Instant feedback with confidence scores and alternative suggestions
-
-![Animal Recognition Demo](https://via.placeholder.com/400x300?text=Animal+Recognition+UI)
+ 
 
 ---
 
@@ -77,9 +78,7 @@ The project was developed with clear separation of responsibilities across three
   - 📝 Fun facts and behavioral insights
 
 > 🎯 *Current scope: 20+ animal species commonly found on campus, with plans for expansion.*
-
-![Encyclopedia View](https://via.placeholder.com/400x300?text=Personal+Encyclopedia+UI)
-
+ 
 ---
 
 #### 3️⃣ Community Gallery & Social Sharing 💬
@@ -91,8 +90,7 @@ The project was developed with clear separation of responsibilities across three
   - ❤️ Like posts from other users
   - 💬 Comment and discuss observations
   - 🔄 Share achievements to social media
-
-![Community Gallery](https://via.placeholder.com/400x300?text=Community+Gallery+UI)
+ 
 
 ---
 
